@@ -56,6 +56,6 @@ Esta tela centraliza a organização pessoal do usuário através de quatro mód
 <figure> 
   <img width="231" height="244" alt="image" src="https://github.com/user-attachments/assets/82f0b72f-7e50-4714-9f9b-c5757409d005" />
 
-    <figcaption>Figura 3 - Logotipo da aplicação web Technology Appointment Schedule
+    Figura 3 - Logotipo da aplicação web Technology Appointment Schedule
 </figure> 
 
