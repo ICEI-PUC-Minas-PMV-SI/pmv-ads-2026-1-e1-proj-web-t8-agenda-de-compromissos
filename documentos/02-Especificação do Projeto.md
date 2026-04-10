@@ -18,6 +18,7 @@ Pessoa que precisa organizar melhor a sua rotina e deixar de perder os horários
 <tr>
 <td><b>Necessidades</b></td>
 <td>
+  
 1. Identificar o tipo de lançamento;
 
 2. Alterar, remarcar, confirmar ou excluir eventos, caso necessário;
