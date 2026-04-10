@@ -3,21 +3,19 @@
 
 ## User Flow
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de navegação do usuário na aplicação. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+O fluxograma ilustrado na Figura 1 mapeia a jornada do usuário pelas interfaces do sistema. O detalhamento individual de cada tela pode ser consultado na seção Protótipo de Baixa Fidelidade a seguir. Para experimentar a navegação em tempo real, acesse o protótipo interativo através do link: [Figma](https://www.figma.com/)
 
 [Adicione aqui o diagrama de fluxo de usuário da sua aplicação.] 
 
-## Protótipo
-
-Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas de validar uma ideia, conceito ou funcionalidade. Isso permite a interação, avaliação, modificação e aprovação das principais características de uma interface antes de entrar na fase de desenvolvimento.
 
 ### Protótipo de baixa fidelidade
 
 Protótipo de baixa fidelidade
 As telas do sistema apresentam uma estrutura comum que é apresentada na figura 2. Nesta estrutura existem 3 grandes blocos, descritos a seguir. São eles:
 
-Cabeçalho - local onde estão dispostos o nome da aplicação web e navegação principal do site (menu da aplicação);
-Conteúdo - apresenta o conteúdo da tela em questão;
+- Cabeçalho - local onde estão dispostos o nome da aplicação web e navegação principal do site (menu da aplicação);
+- 
+- Conteúdo - apresenta o conteúdo da tela em questão;
  
 >- Ferramentas:
 >> - [Figma](https://www.figma.com/)
