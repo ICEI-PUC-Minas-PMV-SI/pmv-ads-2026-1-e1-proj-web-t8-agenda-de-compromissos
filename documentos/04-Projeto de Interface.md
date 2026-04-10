@@ -14,7 +14,7 @@ Protótipo de baixa fidelidade
 As telas do sistema apresentam uma estrutura comum que é apresentada na figura 2. Nesta estrutura existem 3 grandes blocos, descritos a seguir. São eles:
 
 - Cabeçalho - local onde estão dispostos o nome da aplicação web e navegação principal do site (menu da aplicação);
-- 
+  
 - Conteúdo - apresenta o conteúdo da tela em questão;
  
 >- Ferramentas:
