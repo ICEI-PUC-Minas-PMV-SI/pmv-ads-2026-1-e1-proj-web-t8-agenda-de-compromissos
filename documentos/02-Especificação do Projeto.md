@@ -48,6 +48,8 @@ horário, prioridade, e tipo de evento;
 | Agendador          | Marcar, visualizar e alterar anotações, reuniões e eventos | Simplificar a rotina de trabalho |
 | Agendador          | Visualizar a rotina e anotações da semana | Aproveitar o tempo livre |
 
+
+
 ## Requisitos do Projeto
 
 
