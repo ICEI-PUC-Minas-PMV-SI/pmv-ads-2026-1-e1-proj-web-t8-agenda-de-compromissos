@@ -33,4 +33,27 @@ Esta tela centraliza a organização pessoal do usuário através de quatro mód
 > **Links Úteis**:
 >
 > - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
+<hr>
+<h3><b>Tela de visualização de Tarefas</b></h3>
+<p>Exibe informações sobre as tarefas, a imagem da capa e o usuario com seu compromissos.</p>
+<figure> 
+  <img width="900" height="505" alt="image" src="https://github.com/user-attachments/assets/bf707430-934c-471d-899d-7506629db5d8" />
+  <figcaption> Figura 1 - Tela de Tarefas
+</figure> 
+
+<h3><b>Tela de visualização do Calendario Semanal</b></h3>
+<p>Exibe informações sobre os seus compromissos semanais.</p>
+<figure> 
+<img width="902" height="508" alt="image" src="https://github.com/user-attachments/assets/f0f0d0c7-3ccd-405f-bedd-ee17160ed519" />
+
+  <figcaption>Figura 2 - Calendario Semanal     
+</figure> 
+<hr>
+  
+<p>Para a criação do logotipo do site foi utilizada a cor amarela, pois esta cor remete a aspectos do conhecimento e sabedoria (PATEL, 2021). A utilização da imagem de um marca-texto foi escolhida por ser algo presente no dia-a-dia dos estudantes.</p>
+
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/blob/main/documentos/img/Marca texto.png" width="200" height="200">
+    <figcaption>Figura 3 - Logotipo da aplicação web Vida de Estudante
+</figure> 
 
