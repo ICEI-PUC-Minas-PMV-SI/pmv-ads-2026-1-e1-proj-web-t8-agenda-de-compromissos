@@ -25,7 +25,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 <figure> 
 <img width="1387" height="783" alt="image" src="https://github.com/user-attachments/assets/9e5c883c-a972-4a5d-be51-d97afd09e3dc" />
-    <figcaption>Figura 2 - Estrutura padrão do site
+    <figcaption>Figura 1 - Estrutura padrão do site
 </figure> 
 <hr>
 
@@ -36,7 +36,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 <img width="994" height="561" alt="image" src="https://github.com/user-attachments/assets/001249a6-da94-49ad-8c22-3734479349a9" />
 
 <figure> 
-  <figcaption>Figura 3 - Tela Login page
+  <figcaption>Figura 2 - Tela Login page
 </figure> 
 <hr>
 <h3><b>Tela - Cadastro</b></h3>
@@ -46,7 +46,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 
 <figure> 
-  <figcaption>Figura 3 - Tela Cadastro page
+  <figcaption>Figura 4 - Tela Cadastro page
 </figure> 
 <hr>
 <h3><b>Tela - Alterar Senha</b></h3>
@@ -56,7 +56,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 
 <figure> 
-  <figcaption>Figura 3 - Alterar Senha
+  <figcaption>Figura 5 - Alterar Senha
 </figure>
 
 
