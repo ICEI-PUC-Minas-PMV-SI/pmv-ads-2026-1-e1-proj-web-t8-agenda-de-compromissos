@@ -26,9 +26,10 @@ esquecimentos, atrasos e dificuldade em administrar o tempo ao longo do dia.
 
 ## Objetivos
 
-[Aqui a equipe deve realizar uma descrição detalhada dos objetivos do trabalho, ressaltando quais as questões principais do problema a serem resolvidas pelo projeto, não é a hora de apresentar requisitos detalhados.]
- 
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+O objetivo principal dessa aplicação e auxiliar os usuários na organização de seus 
+compromissos diários, permitindo registrar, acompanhar e gerenciar tarefas de forma 
+prática e eficiente. Buscando facilitar o planejamento das atividades do dia a dia, 
+contribuindo para uma melhor administração do tempo.
 
 ## Justificativa
 
