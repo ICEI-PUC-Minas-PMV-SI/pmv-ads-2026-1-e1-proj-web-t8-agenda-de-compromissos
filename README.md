@@ -11,15 +11,15 @@
 ## Integrantes
 
 * Pablo Luiz Amaro de Miranda
-* Nome completo do aluno 2
-* Nome completo do aluno 3
+* William Rocha Dos Santos
+* Lucas Felipe dos Santos Lamarca
 * José Júlio de Paiva Neto
 * Nome completo do aluno 5
 * Nome completo do aluno 6
 
 ## Orientador
 
-* Nome completo do professor
+* Clóvis Lemos Tavares
 
 # Documentação
 
