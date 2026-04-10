@@ -42,8 +42,8 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 <h3><b>Tela - Login</b></h3>
 <p>A tela de Login page apresenta um metodo de autentificaçao para acessar a sua agenda. </p>
   
-<img width="687" height="385" alt="image" src="https://github.com/user-attachments/assets/2c5d748a-7379-445b-a1c2-e7700c0d82d0" />
-<hr>
+<img width="994" height="561" alt="image" src="https://github.com/user-attachments/assets/001249a6-da94-49ad-8c22-3734479349a9" />
+
 <figure> 
   <figcaption>Figura 3 - Tela Login page
 </figure> 
@@ -51,9 +51,8 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 <h3><b>Tela - Cadastro</b></h3>
 <p>A tela de Cadastro realiza um metodo de inscrisao em nossa site de agendas.</p>
   
-<img width="685" height="385" alt="image" src="https://github.com/user-attachments/assets/3c855d21-9916-4fcc-b4f0-096cc8ece71f" />
+<img width="999" height="562" alt="image" src="https://github.com/user-attachments/assets/ba8d7bff-6fd7-4469-9fb4-e343e950a0eb" />
 
-<hr>
 <figure> 
   <figcaption>Figura 3 - Tela Cadastro page
 </figure> 
