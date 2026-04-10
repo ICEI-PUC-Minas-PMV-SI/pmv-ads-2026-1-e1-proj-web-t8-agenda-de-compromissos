@@ -15,7 +15,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
 - Cabeçalho - local onde estão dispostos o nome da aplicação web e navegação principal do site (menu da aplicação);
   
-- Conteúdo - apresenta o conteúdo da tela em questão;
+- Area de Trabalho - apresenta o conteúdo da tela em questão;
  
 >- Ferramentas:
 >> - [Figma](https://www.figma.com/)
