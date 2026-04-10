@@ -19,10 +19,6 @@ A equipe está estruturada da seguinte forma para garantir o fluxo de desenvolvi
 
 - Equipe de Design: Lucas Felipe dos Santos Lamarca, focados na experiência do usuário (UX) e interface (UI), garantindo que a visualização do calendário seja intuitiva.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ### Processo
 
@@ -41,11 +37,6 @@ Para o acompanhamento das tarefas, a equipe utiliza o GitHub Projects, configura
 - Done: Tarefas concluídas e integradas à versão principal do sistema.
 
 <img width="886" height="802" alt="image" src="https://github.com/user-attachments/assets/8ba56a23-bacd-40eb-ac85-d9eeecae0f3a" />
-
-> **Links Úteis**:
-> - [Planejamento de projetos para desenvolvedores](https://github.com/features/project-management/)
-> - [Sobre Projects](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Ferramentas de gerenciamento do Projects no GitHub](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
 
 
 ### Etiquetas
