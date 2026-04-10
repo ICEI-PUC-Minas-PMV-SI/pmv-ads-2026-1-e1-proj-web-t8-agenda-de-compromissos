@@ -6,7 +6,10 @@
 
 `SEMESTRE`
 
-[Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.]
+Este projeto propõe a criação de um site para o gerenciamento de compromissos diários. O objetivo principal é auxiliar usuários na organização de tarefas e prazos, combatendo a desorganização e o esquecimento em rotinas intensas.
+- Público-alvo: Estudantes, profissionais, pais e idosos que buscam melhor gestão do tempo.Funcionalidades 
+- Principais: Cadastro de contas, criação, edição e exclusão de tarefas com data/hora, definição de lembretes e organização por prioridade.
+- Diferenciais Técnicos: Interface web intuitiva, responsiva para dispositivos móveis e com foco em segurança de dados.
 
 ## Integrantes
 
