@@ -46,7 +46,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 
 <figure> 
-  <figcaption>Figura 4 - Tela Cadastro page
+  <figcaption>Figura 3 - Tela Cadastro page
 </figure> 
 <hr>
 <h3><b>Tela - Alterar Senha</b></h3>
@@ -56,7 +56,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 
 <figure> 
-  <figcaption>Figura 5 - Alterar Senha
+  <figcaption>Figura 4 - Alterar Senha
 </figure>
 
 
