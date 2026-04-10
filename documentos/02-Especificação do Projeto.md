@@ -10,7 +10,19 @@
 <th colspan="2">Perfil  Estudantes, Profissionais em Geral, Pais, Idosos </th>
 </tr>
 <tr>
-<td width="150px"><b>Descrição</b></td>
+<td width="150px"><b>
+1. Estudantes que precisem organizar uma rotina de estudos, 
+provas, entregas de trabalho, tarefas diárias; etc. 
+2. Profissionais que precisem ter uma rotina bem estabelecida, com 
+a visualização de prazos de entrega, reuniões, tarefas; etc. 
+3. Pais que necessitam ter uma melhor gestão de tempo com rotina 
+para desfrutarem melhor dos intervalos de tempo entre uma 
+tarefa e outra. Como afazeres domésticos, cuidados com as 
+crianças, e atividades do âmbito acadêmico dos filhos. 
+4. Pessoas de idade avançada que podem ter uma rotina corrida ou 
+apresentar dificuldades de memória. Por isso, anotar 
+compromissos e tarefas é essencial para garantir que nada 
+importante seja esquecido. </b></td>
 <td width="600px">Teste</td>
 </tr>
 <tr>
