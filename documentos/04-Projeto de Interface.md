@@ -71,20 +71,20 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
 
 <hr>
-<h3><b>Tela - Criar Tarefa</b></h3>
-<p>A tela de Criar Tarefa, trata-se de uma tela a onde o usuario pode cadastrar seus compromissos diarios.</p>
+<h3><b>Tela - Criar Tarefas</b></h3>
+<p>A tela de Criar Tarefa, trata-se de uma tela onde o usuário pode cadastrar seus compromissos diários.</p>
 
   <img width="1323" height="744" alt="image" src="https://github.com/user-attachments/assets/e8b7a883-286b-48f4-a354-9a0c95a31d77" />
 
 
 <figure> 
-  <figcaption>Figura 6 - Criar Tarefa
+  <figcaption>Figura 6 - Criar Tarefas
 </figure>
 
 
 <hr>
 <h3><b>Tela - Gerenciar Tarefas</b></h3>
-<p>A tela de Gerenciar Tarefas, trata-se de uma tela a onde o usuario pode editar ou excluir seus compromissos diarios.</p>
+<p>A tela de Gerenciar Tarefas, trata-se de uma tela onde o usuário pode editar ou excluir seus compromissos diários.</p>
 
 <img width="1323" height="746" alt="image" src="https://github.com/user-attachments/assets/767f5fa3-1f8a-474f-a8ff-3bff8920fd45" />
 
@@ -94,7 +94,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
 <hr>
 <h3><b>Tela - Lixeira de Tarefas</b></h3>
-<p>A tela de Lixeira de Tarefas, trata-se de uma tela a onde o usuario pode recuperar seus compromissos excluidos.</p>
+<p>A tela de Lixeira de Tarefas, trata-se de uma tela onde o usuário pode recuperar seus compromissos excluídos.</p>
 
 <img width="1324" height="746" alt="image" src="https://github.com/user-attachments/assets/cafba840-4655-438c-8b77-1b11bebcbe2e" />
 
@@ -105,23 +105,23 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
 
 <hr>
-<h3><b>Tela - Calendario Mensal</b></h3>
-<p>A tela de Calendario Mensal permite ao usuário visualizar seus compromissos de forma mensal.</p>
+<h3><b>Tela - Calendário Mensal</b></h3>
+<p>A tela de Calendário Mensal permite ao usuário visualizar seus compromissos de forma mensal.</p>
 
 <img width="1324" height="746" alt="image" src="https://github.com/user-attachments/assets/8e9829f0-e681-4ce8-a737-af4eb60f2cb8" />
 
 <figure> 
-  <figcaption>Figura 9 - Calendario Mensal
+  <figcaption>Figura 9 - Calendário Mensal
 </figure>
 
 <hr>
-<h3><b>Tela - Calendario Semanal</b></h3>
-<p>A tela de Calendario Mensal permite ao usuário visualizar seus compromissos de forma semanal.</p>
+<h3><b>Tela - Calendário Semanal</b></h3>
+<p>A tela de Calendário Mensal permite ao usuário visualizar seus compromissos de forma semanal.</p>
 
 <img width="1324" height="746" alt="image" src="https://github.com/user-attachments/assets/4ac5d7de-a14f-4a70-bf75-fba31d38f20d" />
 
 <figure> 
-  <figcaption>Figura 10 - Calendario Semanal
+  <figcaption>Figura 10 - Calendário Semanal
 </figure>
 
 <hr>
