@@ -3,18 +3,62 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
-    <link rel="stylesheet" href="../style/home.css">
-    <link rel="stylesheet" href="../style/menu.css">
+    <title>Task Master - Lista de Tarefas</title>
+    <link rel="stylesheet" href="../css/lista.css">
+    <script src="../js/lista.js" defer></script>
     <script src="../js/menu.js" defer></script>
+    <link rel="stylesheet" href="../css/menu.css">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
+    <div class="background-blobs">
+        <div class="blob color-1"></div>
+        <div class="blob color-2"></div>
+    </div>
 
-  <div class="container-center">
-    <img src="../img/image.png" class="icon">
-    <h1>Lista de Tarefas</h1>
-  </div>
-      <button class="toggle-btn" id="toggleBtn">ABRIR MENU</button>
+    <main class="container-lista">
+        <header class="top-bar">
+           
+            <div class="main-title">Lista de Tarefas</div>
+            <a href="index.html" class="btn-add-new">+ Novo</a>
+        </header>
+
+        <section class="summary-section">
+            <div class="month-display">Abril</div>
+            <div class="schedule-summary">
+                <div class="summary-col">
+                    <h3>📅 Amanhã</h3>
+                    <div id="amanhaList" class="mini-list"></div>
+                </div>
+                <div class="summary-col">
+                    <h3>🗓️ Hoje</h3>
+                    <div id="hojeList" class="mini-list"></div>
+                </div>
+            </div>
+            <div class="mini-calendar">
+                <div class="cal-grid">
+                    <span>S</span><span>T</span><span>Q</span><span>Q</span><span>S</span><span>S</span><span>D</span>
+                    <div>01</div><div class="today">02</div><div>06</div><div>03</div><div>04</div><div>05</div><div>07</div>
+                </div>
+            </div>
+        </section>
+
+        <section class="kanban-board">
+            <div class="kanban-col">
+                <div class="badge red">🚨 Alta Urgência</div>
+                <div class="task-items" id="altaUrge"></div>
+            </div>
+            <div class="kanban-col">
+                <div class="badge yellow">🔔 Média Urgência</div>
+                <div class="task-items" id="mediaUrge"></div>
+            </div>
+            <div class="kanban-col">
+                <div class="badge green">✅ Baixa Urgência</div>
+                <div class="task-items" id="baixaUrge"></div>
+            </div>
+        </section>
+    </main>
+<button class="toggle-btn" id="toggleBtn">ABRIR MENU</button>
     
     <div class="menu-wrapper retracted" id="wrapper">
         <div class="selector"></div>
