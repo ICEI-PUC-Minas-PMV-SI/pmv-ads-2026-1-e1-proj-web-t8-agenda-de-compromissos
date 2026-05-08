@@ -1,0 +1,206 @@
+:root {
+    --primary: #6366f1;
+    --bg-dark: #0f172a;
+    --glass-bg: rgba(255, 255, 255, 0.7);
+    --glass-border: rgba(255, 255, 255, 0.4);
+    --text-main: #1e293b;
+}
+
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    background-color: var(--bg-dark);
+    margin: 0;
+    min-height: 100vh;
+    color: var(--text-main);
+}
+
+/* Reutilizando Background */
+.background-blobs { position: fixed; width: 100%; height: 100%; z-index: -1; }
+.blob { position: absolute; width: 500px; height: 500px; border-radius: 50%; filter: blur(80px); opacity: 0.3; }
+.color-1 { background: #818cf8; top: -10%; left: -5%; }
+.color-2 { background: #c084fc; bottom: -10%; right: -5%; }
+
+.container-lista {
+    padding: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Header */
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.main-title {
+    background: #e2e8f0;
+    padding: 10px 40px;
+    border-radius: 12px;
+    font-weight: 800;
+    font-size: 1.5rem;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.search-box {
+    background: white;
+    padding: 8px 15px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.search-box input { border: none; outline: none; }
+
+/* Resumo */
+.summary-section {
+    display: grid;
+    grid-template-columns: 150px 1fr 200px;
+    background: var(--glass-bg);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 30px;
+    gap: 20px;
+}
+
+.month-display { font-size: 2rem; font-weight: 700; align-self: center; }
+
+.schedule-summary { display: flex; gap: 40px; }
+.summary-col h3 { font-size: 0.9rem; margin-bottom: 10px; opacity: 0.8; }
+
+.mini-list { font-size: 0.85rem; display: flex; flex-direction: column; gap: 5px; }
+.mini-item { display: flex; justify-content: space-between; gap: 20px; }
+.dot { height: 8px; width: 8px; border-radius: 50%; display: inline-block; margin-right: 5px; }
+
+/* Quadro Kanban */
+.kanban-board {
+    display: flex;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.kanban-col {
+    flex: 1;
+    background: rgba(226, 232, 240, 0.8);
+    border-radius: 20px;
+    padding: 15px;
+    min-height: 400px;
+    min-width: 0;
+}
+
+.badge {
+    padding: 8px 15px;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    font-size: 0.8rem;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+.red { background: #f87171; }
+.yellow { background: #fbbf24; }
+.green { background: #34d399; }
+.blue { background: #3b82f6; }
+
+/* Cards de Tarefa */
+.task-card {
+    background: white;
+    padding: 15px;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.task-card input[type="checkbox"] { transform: scale(1.2); }
+.task-info h4 { margin: 0; font-size: 0.95rem; }
+.task-info p { margin: 0; font-size: 0.75rem; color: #64748b; }
+
+@media (max-width: 768px) {
+    .summary-section { grid-template-columns: 1fr; }
+    .kanban-board { grid-template-columns: 1fr; }
+}
+
+.task-card {
+    transition: transform 0.5s ease, opacity 0.5s ease, background 0.3s;
+}
+
+/* Quando o checkbox é marcado, podemos dar um feedback visual */
+.task-card:has(input:checked) {
+    background: #f1f5f9;
+    border-left: 4px solid #34d399; /* Verde para indicar conclusão */
+}
+
+/* Layout Principal */
+.quadros-container {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    overflow-x: auto; /* Permite scroll horizontal em telas médias */
+    align-items: flex-start;
+}
+
+/* Colunas Individuais */
+.coluna {
+    flex: 1;
+    min-width: 280px; /* Garante que a coluna não fique muito estreita */
+    background-color: #f4f4f9; /* Ou a cor que você definiu no seu projeto */
+    border-radius: 8px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    transition: all 0.3s ease;
+}
+
+/* --- RESPONSIVIDADE (Celulares e Tablets) --- */
+
+@media (max-width: 1024px) {
+    .quadros-container {
+        padding: 10px;
+        gap: 15px;
+    }
+}
+
+@media (max-width: 768px) {
+    .quadros-container {
+        flex-direction: column; /* Empilha as colunas verticalmente */
+        overflow-x: hidden;
+    }
+
+    .coluna {
+        width: 100%; /* Ocupa a largura total da tela */
+        min-width: unset;
+    }
+
+    /* Ajuste da barra de pesquisa e resumo superior para telas pequenas */
+    .header-info {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 20px;
+    }
+
+    .search-bar {
+        width: 90%;
+    }
+    
+    .resumo-superior {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .kanban-board {
+        flex-direction: column; /* Empilha apenas no celular para não ficar ilegível */
+    }
+    
+    .summary-section { 
+        grid-template-columns: 1fr; 
+    }
+}
