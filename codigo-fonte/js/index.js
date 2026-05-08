@@ -20,7 +20,7 @@ if(usuarioEncontrado){
     localStorage.setItem('usuarioLogado', JSON.stringify(usuarioEncontrado));
     //Redirecionamento após dois Segundos
     setTimeout(() => {
-        window.location.href = './html/home_page.html';
+        window.location.href = './html/home.html';
     }, 2000);
     
 }else {

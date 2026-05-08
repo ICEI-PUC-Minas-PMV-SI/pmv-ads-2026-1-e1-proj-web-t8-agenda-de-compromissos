@@ -55,5 +55,5 @@ function salvarTarefa() {
     localStorage.setItem('tarefasApp', JSON.stringify(banco));
 
     alert("Tarefa Salva!");
-    window.location.href = 'lista.html'; // Redireciona para a lista
+    window.location.href = '../html/home.html'; // Redireciona para a lista
 }
